@@ -5,4 +5,4 @@
 ##### Languages: Lua, Javascript(i'm trash), PHP ###
 ----------------------------------------------------
 
-[<img src='https://images.emojiterra.com/twitter/v13.0/512px/1f1f2-1f1fd.png' height='60px' width='60px'>]
+<img src='https://images.emojiterra.com/twitter/v13.0/512px/1f1f2-1f1fd.png' height='60px' width='60px'>
