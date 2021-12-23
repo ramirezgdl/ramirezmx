@@ -6,7 +6,7 @@
 Hi, i'm ramirez.
 </h3>
 <p align='center'>
-About my work, you can check my repositories, if you want to contact me shoot me a dm to <span>ramirez.#6426</span> my discord, also i got a really nice server, make sure to join! 
+About my work, you can check my repositories, if you want to contact me shoot me a dm to <span>ramirez.#0015</span> my discord, also i got a really nice server, make sure to join! 
 </p>
 
 
