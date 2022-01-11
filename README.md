@@ -10,7 +10,7 @@ About my work, you can check my repositories, if you want to contact me shoot me
 </p>
 
 
->[Discord Server](https://discord.gg/rXDFU7xSxw)
+>discord.gg/mxsecurity
 
 
 
