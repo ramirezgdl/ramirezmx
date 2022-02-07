@@ -1,1 +1,2 @@
-#Sweetiefox > u
+# Sweetiefox > u
+## discord.gg/obfuscator
