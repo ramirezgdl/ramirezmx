@@ -1,2 +1,1 @@
-# Sweetiefox > u
-## discord.gg/obfuscator
+ramirez.#2006
